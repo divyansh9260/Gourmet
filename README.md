@@ -4,8 +4,8 @@ Team Name : Gourmet
 
 Team Members :
     1. Mihir Ojha  (https://github.com/scarvage)
-    2. Piyush Patel ()
-    3. Divyansh Gangwar ()
+    2. Piyush Patel (https://github.com/monkepi18)
+    3. Divyansh Gangwar (https://github.com/divyansh9260)
     4. Abhijeet Singh ()
 
 Proposed Features :
