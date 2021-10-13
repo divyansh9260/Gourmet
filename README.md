@@ -9,15 +9,16 @@ Team Members :
     4. Abhijeet Singh ()
 
 Proposed Features :
-    1.Customer Side Features :
-       ◆ SignUp and Login.
-       ◆ Option to either shop directly from a particular shop or broadcast a request.
-       ◆ Customers should be able to choose between automatic order or manual order 
-         among the received responses.
-       ◆ Add the required item to the database, if unavailable.
-       ◆ Feature to maintain past orders & request a return.
+       
+        1.Customer Side Features :
+         ◆ SignUp and Login.
+         ◆ Option to either shop directly from a particular shop or broadcast a request.
+         ◆ Customers should be able to choose between automatic order or manual order 
+            among the received responses.
+         ◆ Add the required item to the database, if unavailable.
+         ◆ Feature to maintain past orders & request a return.
     
-    2. Shopkeeper Side Features :
+      2. Shopkeeper Side Features :
         ◆ SignUp and Login.
         ◆ Feature to add / delete / update predefined product’s prices and their count.
         ◆ Send requests to shopkeepers only if that product is available with them.
