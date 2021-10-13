@@ -34,7 +34,7 @@ Proposed Features :
            the shopkeeper to modify delivery 
            charges accordingly.
  
-Your Innovation :
+Our Innovation :
   1. View once feature for images.
   2. Payment feature.
 
