@@ -1,5 +1,5 @@
 # Innodev2k21
-Smart Restaurant
+Smart Restaurante
 Team Name : Gourmet
 
 Team Members :
